@@ -14,7 +14,7 @@
     <EditText android:id="@android:id/text2"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:hint="Log level"/>
+        android:hint="Log level (V/D/I/W/E/F)"/>
         
     <Button
         android:id="@android:id/button1"
